@@ -1,0 +1,4 @@
+../Core/Src/NEO_M9_UART.c:21:13:calculate_checksum	32	static
+../Core/Src/NEO_M9_UART.c:35:6:M9N_Init	128	static
+../Core/Src/NEO_M9_UART.c:128:6:config_geofence	72	dynamic
+../Core/Src/NEO_M9_UART.c:179:6:processGPS	56	static

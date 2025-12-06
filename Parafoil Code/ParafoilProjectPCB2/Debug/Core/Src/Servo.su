@@ -1,0 +1,10 @@
+../Core/Src/Servo.c:13:6:servo_init	16	static
+../Core/Src/Servo.c:24:6:servo_init_micro	16	static
+../Core/Src/Servo.c:33:6:turn_servo_micro	24	static
+../Core/Src/Servo.c:144:24:clamp_u16	24	static
+../Core/Src/Servo.c:150:6:ServoWriteUS	24	static
+../Core/Src/Servo.c:159:6:ServoTurnAngle	24	static
+../Core/Src/Servo.c:166:6:turnLeft	24	static
+../Core/Src/Servo.c:176:6:turnRight	24	static
+../Core/Src/Servo.c:185:6:servosReset	8	static
+../Core/Src/Servo.c:189:6:deadSpin	8	static

@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:255:6:quat_to_euler	3
+../Core/Src/freertos.c:282:6:MX_FREERTOS_Init	13
+../Core/Src/freertos.c:372:6:read_GPS	19
+../Core/Src/freertos.c:460:6:updateServos	33
+../Core/Src/freertos.c:722:6:readCoord	4
+../Core/Src/freertos.c:769:6:newGeoFence	4
+../Core/Src/freertos.c:814:6:StartBno085Task	22
+../Core/Src/freertos.c:1173:6:sendData	2
+../Core/Src/freertos.c:1251:13:get_accuracy_string	5
